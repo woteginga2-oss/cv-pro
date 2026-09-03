@@ -1,13 +1,11 @@
-# cv-pro
-Sistema de criação de ccv-pro/
-├── backend/
-│   ├── package.json
-│   ├── server.js
-│   ├── .env
-│   ├── .gitignore
-│   └── routes/
-│       ├── cv.js
-│       └── payment.js
-├── frontend/
-│   └── index.html
-└── README.mdurrículos profissionais - CV Pro
+# CV Pro - Crie seu Currículo Profissional
+
+## Sobre
+Plataforma completa para criação de currículos profissionais.
+
+## Tecnologias
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express, PDFKit
+- Hospedagem: Netlify (frontend), Railway (backend)
+
+## Estrutura
